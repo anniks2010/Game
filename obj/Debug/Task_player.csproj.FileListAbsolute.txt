@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\Task_player\bin\Debug\Task_player.exe.config
+C:\Users\opilane\projects\Task_player\bin\Debug\Task_player.exe
+C:\Users\opilane\projects\Task_player\bin\Debug\Task_player.pdb
+C:\Users\opilane\projects\Task_player\obj\Debug\Task_player.csprojAssemblyReference.cache
+C:\Users\opilane\projects\Task_player\obj\Debug\Task_player.exe
+C:\Users\opilane\projects\Task_player\obj\Debug\Task_player.pdb
